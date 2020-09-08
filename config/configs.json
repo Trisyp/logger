@@ -1,0 +1,4 @@
+{
+  "max_log_size": 20,
+  "log_level": "DEBUG"
+}
